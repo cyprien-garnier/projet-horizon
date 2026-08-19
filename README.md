@@ -1,10 +1,10 @@
 # 📊 Projet Horizon — Analyse commerciale avec Power BI
 
-Tableau de bord Power BI construit à partir d'un jeu de données retail public.
+Analyse de la performance commerciale d'une activité retail à travers un tableau de bord Power BI interactif. L'objectif est d'identifier les tendances de ventes, les produits et clients les plus contributeurs ainsi que les principaux leviers de performance.
 
 ## Objectif
 
-Construire un tableau de bord interactif pour analyser les ventes, les produits, les clients et la performance commerciale.
+Transformer des données transactionnelles brutes en indicateurs d'aide à la décision afin de fournir une vision synthétique de l'activité et d'identifier les tendances, forces et axes d'amélioration de la performance commerciale.
 
 ## Outils
 
@@ -42,6 +42,21 @@ Construire un tableau de bord interactif pour analyser les ventes, les produits,
 ## Données
 
 Dataset retail public (Kaggle).
+
+## 💡 Synthèse & recommandations business
+
+L'analyse met en évidence une activité commerciale particulièrement stable et équilibrée :
+
+- le chiffre d'affaires est réparti de manière homogène entre les différentes catégories ;
+- aucun produit, client ou moyen de paiement ne semble créer de dépendance majeure ;
+- juillet constitue le meilleur mois de la période étudiée, sans qu'une saisonnalité forte puisse être démontrée ;
+- les écarts de performance entre catégories restent faibles.
+
+### Recommandations
+
+Cette stabilité constitue un point fort en matière de diversification, mais révèle également l'absence de moteur de croissance clairement identifié.
+
+Une analyse complémentaire sur plusieurs années permettrait de confirmer ou non la saisonnalité observée. L'intégration de données de coûts et de marges permettrait également de dépasser l'analyse du chiffre d'affaires pour identifier les catégories réellement les plus rentables.
 
 ## Compétences travaillées
 
