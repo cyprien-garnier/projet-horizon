@@ -22,22 +22,22 @@ Construire un tableau de bord interactif pour analyser les ventes, les produits,
 ### 2. Évolution de l'activité
 > L'activité reste globalement stable ; juillet est le mois le plus performant, sans saisonnalité marquée.
 
-![Évolution de l'activité commerciale](evolution-activite.png)
+![Évolution de l'activité commerciale](Evolution%20de%20l%27activité%20commerciale.png)
 
 ### 3. Évaluation des produits
 > Les performances sont très homogènes entre les produits et les catégories.
 
-![Évaluation des produits](evaluation-produits.png)
+![Évaluation des produits](Evaluation%20produits.png)
 
 ### 4. Clients & géographie
 > Le CA est réparti entre de nombreux clients et localisations, sans moyen de paiement dominant.
 
-![Analyse des clients et de la géographie](clients-geographie.png)
+![Analyse des clients et de la géographie](Clients%20et%20géographie.png)
 
 ### 5. Analyse des performances
 > Les catégories présentent des performances très proches en CA et en volume vendu.
 
-![Analyse des performances](analyse-performances.png)
+![Analyse des performances](Analyse%20des%20performances.png)
 
 ## Données
 
