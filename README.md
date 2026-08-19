@@ -41,7 +41,10 @@ Transformer des données transactionnelles brutes en indicateurs d'aide à la d�
 
 ## Données
 
-Dataset retail public (Kaggle).
+Les données utilisées proviennent du dataset **Retail Transaction Dataset**, 
+publié par Fahad Rehman sur Kaggle.
+
+[Accéder au dataset sur Kaggle](https://www.kaggle.com/datasets/fahadrehman07/retail-transaction-dataset)
 
 ## 💡 Synthèse & recommandations business
 
