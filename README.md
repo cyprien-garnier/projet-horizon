@@ -17,7 +17,7 @@ Construire un tableau de bord interactif pour analyser les ventes, les produits,
 ### 1. Vue d'ensemble
 > L'activité génère 24,83 M de CA pour 100 000 transactions, avec une répartition homogène entre les produits et les moyens de paiement.
 
-![Vue d'ensemble](images/vue-ensemble.png)
+![Vue d'ensemble](images/Vue d'ensemble.png)
 
 ### 2. Évolution de l'activité
 > L'activité reste globalement stable ; juillet est le mois le plus performant, sans saisonnalité marquée.
